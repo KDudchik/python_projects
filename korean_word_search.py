@@ -80,7 +80,6 @@ def generate_word_search(words, grid_size=12):
 
     return grid, word_locations
 
-#Add word-translation dictionary
 def word_translate(korean_words,translations):
     """
     Creates dictionary with translation to each word.
